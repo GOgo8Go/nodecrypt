@@ -28,6 +28,16 @@
 		top: 0;
 	}
 
+	.login-container h1 {
+	    margin-bottom: 50px;
+	}
+	
+	.input-group input {
+	    margin: 5px;
+	}
+
+
+	
 	.main {
 		width: 100vw;
 		height: 100dvh;
